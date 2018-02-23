@@ -1,0 +1,41 @@
+company:
+  name: Team Umami
+  logo: Cornell_NYC_Tech_logo.png
+product_hmw: How might we use technology to make home cooking accessible and enable people to experience UMAMI every day?
+
+tags:
+  - AR
+  - Computer Vision
+
+product_narrative: |
+  Umami helps people cook food at home quickly and easily by (1) scanning fridge ingredients using computer vision, (2) suggesting recipes, and (3) giving interactive step-by-step instructions.
+
+team:
+  picture: E383E868-.jpg
+  roster:
+  - name: Hyekyung Jung
+    email: hj394@cornell.edu
+    picture: hye.jpg
+    program: MBA
+  - name: Xiaoling Chen
+    email: chenx553@newschool.edu
+    picture: xiaoling.jpg
+    program: Design
+  - name: Malavika Gopal
+    email: mg2342@cornell.edu
+    picture: malavika.jpg
+    program: MBA
+  - name: Jacob Lee
+    email: hl2278@cornell.edu
+    picture: jacob.jpg
+    program: CS
+
+assets:
+- title: Sprint 1
+  url: http://cornelltech.io/storybot/
+- title: Sprint 2
+  url: http://cornelltech.io/storybot/
+- title: Sprint 3
+  url: http://cornelltech.io/storybot/
+- title: Final
+  url: http://cornelltech.io/storybot/
