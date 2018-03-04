@@ -11,7 +11,7 @@ product_narrative: |
   Umami helps people cook food at home quickly and easily by (1) scanning fridge ingredients using computer vision, (2) suggesting recipes, and (3) giving interactive step-by-step instructions.
 
 team:
-  picture: E383E868-.jpg
+  picture: team_photo.jpg
   roster:
   - name: Hyekyung Jung
     email: hj394@cornell.edu
@@ -32,7 +32,7 @@ team:
 
 assets:
 - title: Sprint 1
-  url: http://cornelltech.io/storybot/
+  url: http://bit.ly/2FbgEKl
 - title: Sprint 2
   url: http://cornelltech.io/storybot/
 - title: Sprint 3
