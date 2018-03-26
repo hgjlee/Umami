@@ -7,8 +7,8 @@ tags:
   - AR
   - Computer Vision
 
-product_narrative: |
-  Umami helps people cook food at home quickly and easily by (1) scanning fridge ingredients using computer vision, (2) suggesting recipes, and (3) giving interactive step-by-step instructions.
+product_narrative:
+  Umami helps people go beyond their go-to recipes by cooking easy, creative recipes at home, using base ingredients they already have.
 
 team:
   picture: team_photo.jpg
@@ -34,7 +34,7 @@ assets:
 - title: Sprint 1
   url: http://bit.ly/2FbgEKl
 - title: Sprint 2
-  url: http://cornelltech.io/storybot/
+  url: https://bit.ly/2I0mriQ
 - title: Sprint 3
   url: http://cornelltech.io/storybot/
 - title: Final
