@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Koloda/YummlyViewController.swift"
+            timestampString = "547152454.733986"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "Yummly"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Koloda_Example.Yummly.__deallocating_deinit"
+                  moduleName = "Koloda_Example"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jacoblee/Downloads/Koloda-master/Example/Koloda/YummlyViewController.swift"
+                  timestampString = "547151871.633085"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Koloda_Example.Yummly.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Koloda_Example.Yummly"
+                  moduleName = "Koloda_Example"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jacoblee/Downloads/Koloda-master/Example/Koloda/YummlyViewController.swift"
+                  timestampString = "547151871.63621"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Koloda_Example.Yummly.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Koloda_Example.Yummly"
+                  moduleName = "Koloda_Example"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jacoblee/Downloads/Koloda-master/Example/Koloda/YummlyViewController.swift"
+                  timestampString = "547151871.638881"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "276">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Koloda_Example.Yummly.__allocating_init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;Koloda_Example.Yummly&gt;"
+                  moduleName = "Koloda_Example"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jacoblee/Downloads/Koloda-master/Example/Koloda/YummlyViewController.swift"
+                  timestampString = "547151871.641652"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Koloda_Example.Yummly.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;Koloda_Example.Yummly&gt;"
+                  moduleName = "Koloda_Example"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jacoblee/Downloads/Koloda-master/Example/Koloda/YummlyViewController.swift"
+                  timestampString = "547151871.644366"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "136">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Koloda/ScannerViewController.swift"
+            timestampString = "547152454.7340569"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "143"
+            endingLineNumber = "143"
+            landmarkName = "recipeButton(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -1,0 +1,42 @@
+PODS:
+  - Alamofire (4.7.2)
+  - Alamofire-Synchronous (4.0.0):
+    - Alamofire (~> 4.0)
+  - AlamofireImage (3.3.1):
+    - Alamofire (~> 4.5)
+  - Koloda (4.3.1):
+    - pop (~> 1.0)
+  - pop (1.0.10)
+  - SwiftyJSON (4.1.0)
+  - TesseractOCRiOS (4.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - Alamofire-Synchronous (~> 4.0)
+  - AlamofireImage (~> 3.3)
+  - Koloda (~> 4.3.1)
+  - SwiftyJSON (~> 4.0)
+  - TesseractOCRiOS
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - Alamofire-Synchronous
+    - AlamofireImage
+    - Koloda
+    - pop
+    - SwiftyJSON
+    - TesseractOCRiOS
+
+SPEC CHECKSUMS:
+  Alamofire: e4fa87002c137ba2d8d634d2c51fabcda0d5c223
+  Alamofire-Synchronous: eedf1e6e961c3795a63c74990b3f7d9fbfac7e50
+  AlamofireImage: 3b35b586853abaf94ca1250f4e94cff3c21a4c0d
+  Koloda: 0d39b2aa188ccd1fac48d752acaf9802e683c625
+  pop: 82ca6b068ce9278fd350fd9dd09482a0ce9492e6
+  SwiftyJSON: c29297daf073d2aa016295d5809cdd68045c39b3
+  TesseractOCRiOS: 90638afbe43d082433f2e76b384c7901d23956df
+
+PODFILE CHECKSUM: f88433767557598e0eb967baea9fe5a4817365e4
+
+COCOAPODS: 1.5.0
