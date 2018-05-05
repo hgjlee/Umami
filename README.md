@@ -5,6 +5,9 @@ Product Narrative: Umami helps people cook food at home quickly and easily by (1
 
 ![image](https://github.com/hyunjacoblee/Umami/blob/master/IMG_2478.PNG){:height="9px"} ![image](https://github.com/hyunjacoblee/Umami/blob/master/IMG_2479.PNG | height=9)
 
+<img src="https://github.com/hyunjacoblee/Umami/blob/master/IMG_2478.PNG" height="9">
+
+
 We're currently using Swift 4 and the following tech stack:
 * [Tesseract OCR](https://github.com/tesseract-ocr/tesseract)
 * [Koloda View](https://github.com/Yalantis/Koloda)
