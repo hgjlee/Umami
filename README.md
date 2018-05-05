@@ -1,4 +1,4 @@
-# Team Umami
+# Umami
 By 4pm, 80% of Americans don't know what they're having for dinner. How might we help people plan better so that they enjoy the experience of getting home and cooking?
 
 Product Narrative: Umami helps people cook food at home quickly and easily by (1) scanning receipts using computer vision, (2) suggesting recipes, and (3) giving interactive step-by-step instructions.
